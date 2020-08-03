@@ -1,6 +1,7 @@
 # Rodrigo Reis
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:karanalpe@gmail.com)](mailto:karanalpe@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/rodrigoreisbr/)
 
 <p align="center">
   <img src="https://github.com/rodrigoreisbr-tech/portfolio/blob/master/banner-2.png" >
