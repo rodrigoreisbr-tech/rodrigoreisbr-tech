@@ -4,10 +4,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/rodrigoreisbr/)
 
 <p align="center">
-  <img src="https://github.com/rodrigoreisbr-tech/portfolio/blob/master/banner-2.png" >
-</p>
-
-<p align="center">
   <img src="https://media-exp1.licdn.com/dms/image/C4D16AQHwvH9OTJCLWQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1602115200&v=beta&t=FUSnC9ZazWv9pU1jN3h6v4wKTAu-JrbCDKslc8l3QFU" >
 </p>
 
