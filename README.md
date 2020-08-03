@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:karanalpe@gmail.com)](mailto:karanalpe@gmail.com)
 
 <p align="center">
-  <img src="banner-2.png" >
+  <img src="https://github.com/rodrigoreisbr-tech/portfolio/blob/master/banner-2.png" >
 </p>
 
 ### Hello! Welcome to my profile
