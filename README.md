@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/rodrigoreisbr/)
 
 <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4D16AQFUn5hzcGEa5w/profile-displaybackgroundimage-shrink_350_1400/0/1602589880732?e=1615420800&v=beta&t=5MSK7ck3gLOc6TLb9MvSzV3QK5OVUnYKoCJMTGYfPMk" >
+  <img src="https://www.naukri.com/learning/articles/wp-content/uploads/sites/11/2019/07/ds.jpeg" >
 </p>
 
 ### Hello! Welcome to my profile
