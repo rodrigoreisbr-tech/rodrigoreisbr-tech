@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/rodrigoreisbr/)
 
 <p align="center">
-  <img src="https://www.naukri.com/learning/articles/wp-content/uploads/sites/11/2019/07/ds.jpeg" >
+  <img src="https://i2.wp.com/operdata.com.br/wp-content/uploads/2021/03/artigodscapa-35-scaled.jpg?ssl=1" >
 </p>
 
 ### Hello! Welcome to my profile
