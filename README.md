@@ -10,3 +10,9 @@
 ### Hello! Welcome to my profile
 
 Experienced IT coordinator with several years of experience working in the Information Technology field. Motivated by innovation combined with his analytical and problem-solving skills, he has provided significant business insights improving stakeholder’s decision-make process. He is a great communicator who enjoys teamwork. He has a degree in Information System and a MBA in Data Engineering from FIAP. He has experience with relational and non-SQL databases, BI tools, and machine learning. Some of the programming languages include Python, SQL, PL-SQL and PHP.
+
+ <div>
+  <a href="https://github.com/rodrigoreisbr-tech">
+  <img height="90em" src="https://github-readme-stats.vercel.app/api?username=rodrigoreisbr-tech&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoreisbr-tech&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
