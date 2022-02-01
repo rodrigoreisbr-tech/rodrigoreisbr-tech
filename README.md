@@ -10,7 +10,7 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rodrigo.reis12@gmail.com)](mailto:rodrigo.reis12@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/rodrigoreisbr/)
-[![WhatsApp](https://img.shields.io/badge/WhastApp-sucess?style=for-the-badge)](https://wa.me/918928412138?text=Hi)
+[![WhatsApp](https://img.shields.io/badge/WhastApp-sucess?style=for-the-badge)](https://wa.me/+16042091053?text=Hi)
 
 
 
