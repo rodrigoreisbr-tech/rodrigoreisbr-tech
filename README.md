@@ -23,7 +23,7 @@
 
 ### Hello! Welcome to my profile
 
-Experienced IT coordinator with several years of experience working in the Information Technology field. Motivated by innovation combined with his analytical and problem-solving skills, he has provided significant business insights improving stakeholder’s decision-make process. He is a great communicator who enjoys teamwork. He has a degree in Information System and a MBA in Data Engineering from FIAP. He has experience with relational and non-SQL databases, BI tools, and machine learning. Some of the programming languages include Python, SQL, PL-SQL and PHP.
+Experienced IT analyst with several years of experience working in the Information Technology field. Motivated by innovation combined with his analytical and problem-solving skills, he has provided significant business insights improving stakeholder’s decision-make process. He is a great communicator who enjoys teamwork. He has a degree in Information System and a MBA in Data Engineering from FIAP. He has experience with relational and non-SQL databases, BI tools, and machine learning. Some of the programming languages include Python, SQL, PL-SQL and PHP.
 
 <br>
  <div>
