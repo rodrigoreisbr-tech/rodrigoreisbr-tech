@@ -31,7 +31,21 @@ Experienced IT analyst with several years of experience working in the Informati
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=rodrigoreisbr-tech&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoreisbr-tech&layout=compact&langs_count=14&theme=tokyonight"/>
 </div>
+<br>   
 
+## Links:
+* [LinkedIn](https://www.linkedin.com/in/rodrigoreisbr/)
+
+
+## Projects:
+Lista de projetos em Jupyter Notebook:
+
+* **Análise dos Dados do Airbnb Vancouver BC:** https://bit.ly/DadosAirbnb
+* **Análise da Violência no Rio de Janeiro:** https://bit.ly/ViolenciaRio
+---
+
+   
+   
   <div>
   <img src="https://komarev.com/ghpvc/?username=rodrigoreisbr-tech&color=blue" alt="rodrigoreisbr-tech"/>
   </div>
