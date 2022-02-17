@@ -43,6 +43,8 @@ Lista de projetos em Jupyter Notebook:
 * **Análise dos Dados do Airbnb Vancouver BC:** https://bit.ly/DadosAirbnb
 * **Análise da Violência no Rio de Janeiro:** https://bit.ly/ViolenciaRio
 * **Análise da jogos internacionais de futebol (PySpark):** https://bit.ly/PySparkJogos
+* **Análise de Dados do iFood (Em Andamento):** https://bit.ly/AnaliseiFood
+   
 ---
 
    
