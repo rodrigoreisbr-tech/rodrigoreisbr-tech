@@ -44,6 +44,13 @@ List of projects in Jupyter Notebook:
 * **Análise da Violência no Rio de Janeiro:** https://bit.ly/ViolenciaRio
 * **Análise da jogos internacionais de futebol (PySpark):** https://bit.ly/PySparkJogos
 * **Análise de Dados do iFood:** https://bit.ly/AnaliseiFood
+
+
+List of Landing Pages:
+
+* **Évora Digital:** http://evora.digital/
+* **Dr Simone Baeza:** https://simonebaeza.com.br/
+* **LGA Cabinet Solution:** https://lgacabinets.com/
    
 ---
 
