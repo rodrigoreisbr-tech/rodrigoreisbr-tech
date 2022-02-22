@@ -38,7 +38,7 @@ Experienced IT analyst with several years of experience working in the Informati
 
 
 ## Projects:
-Lista de projetos em Jupyter Notebook:
+List of projects in Jupyter Notebook:
 
 * **Análise dos Dados do Airbnb Vancouver BC:** https://bit.ly/DadosAirbnb
 * **Análise da Violência no Rio de Janeiro:** https://bit.ly/ViolenciaRio
