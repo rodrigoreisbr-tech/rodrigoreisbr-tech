@@ -49,7 +49,6 @@ List of projects in Jupyter Notebook:
 List of Landing Pages:
 
 * **Évora Digital:** http://evora.digital/
-* **Dr Simone Baeza:** https://simonebaeza.com.br/
 * **LGA Cabinet Solution:** https://lgacabinets.com/
    
 ---
