@@ -11,10 +11,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rodrigo.reis12@gmail.com)](mailto:rodrigo.reis12@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rodrigoreisbr/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Rodrigo_Rei5)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/RodrigoReisr2/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@rodrigo.reis12)
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-sucess?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/+16042091053?text=Hi)
-
 
 
 <p align="center">
